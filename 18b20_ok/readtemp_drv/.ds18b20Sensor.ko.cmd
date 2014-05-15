@@ -1,0 +1,1 @@
+cmd_/tiny_6410/18b20/readtemp_drv/ds18b20Sensor.ko := arm-linux-ld -EL -r  -T /tiny_6410/linux-2.6.38/scripts/module-common.lds --build-id  -o /tiny_6410/18b20/readtemp_drv/ds18b20Sensor.ko /tiny_6410/18b20/readtemp_drv/ds18b20Sensor.o /tiny_6410/18b20/readtemp_drv/ds18b20Sensor.mod.o

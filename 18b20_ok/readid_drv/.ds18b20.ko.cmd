@@ -1,0 +1,1 @@
+cmd_/tiny_6410/18b20/readid_drv/ds18b20.ko := arm-linux-ld -EL -r  -T /tiny_6410/linux-2.6.38/scripts/module-common.lds --build-id  -o /tiny_6410/18b20/readid_drv/ds18b20.ko /tiny_6410/18b20/readid_drv/ds18b20.o /tiny_6410/18b20/readid_drv/ds18b20.mod.o
